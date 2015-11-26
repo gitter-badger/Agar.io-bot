@@ -1,4 +1,6 @@
 # Agar.io-bot
+
+[![Join the chat at https://gitter.im/samholmes1337/Agar.io-bot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/samholmes1337/Agar.io-bot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The aim of the project is to create a bot that can play Agar.io
 
 The full coding process is streamed live on http://www.twitch.tv/apostolique
